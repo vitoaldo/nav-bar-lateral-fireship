@@ -16,7 +16,7 @@ function App() {
           <li className="logo">
             <a href="/#" className="nav-link">
               <Arrows></Arrows>
-              <span className="link-text">Logo do menu</span>
+              <span className="logo-text">Home</span>
             </a>
           </li>
           <li className="nav-item">
