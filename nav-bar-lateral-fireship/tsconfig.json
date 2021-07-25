@@ -18,9 +18,17 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "typeRoots": [
+      "@types",
+      "./node_modules/@types",
+      "@assets",
+      "../src/types/assets/*"
+    ]
   },
   "include": [
-    "src"
-  ]
+    "src",
+    "tsconfig.paths.json"
+  ],
+  "extends": "./tsconfig.paths.json"
 }
