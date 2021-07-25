@@ -3,7 +3,7 @@ import Ball from "../src/types/assets/ball";
 import Dog from "../src/types/assets/dog";
 import Surf from "../src/types/assets/surf";
 import LogoReact from "../src/types/assets/logo-react";
-// import Arrows from "../src/types/assets/arrows";
+import Arrows from "../src/types/assets/arrows";
 import Sun from "./types/assets/sun";
 // import Moon from "../src/types/assets/moon"
 import "./App.css";
@@ -13,6 +13,12 @@ function App() {
     <>
       <nav className="navbar">
         <ul className="navbar-nav">
+          <li className="logo">
+            <a href="/#" className="nav-link">
+              <Arrows></Arrows>
+              <span className="link-text">Logo do menu</span>
+            </a>
+          </li>
           <li className="nav-item">
             <a href="/#" className="nav-link">
               <Ball></Ball>
