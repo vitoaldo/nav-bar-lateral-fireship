@@ -21,4 +21,6 @@ Para iniciar a pagina, basta executar o seguinte comando
 
 <!-- Uso deste projeto -->
 # Uso do Projeto
-Barra lateral criada a partir do video de tutorial do canal Fireship (https://www.youtube.com/watch?v=biOMz4puGt8&amp;t=2s) utilizando apenas CSS. Projeto para fins de estudo e para referencia para futuros projetos
+Barra lateral criada a partir do video de tutorial do canal Fireship (https://www.youtube.com/watch?v=biOMz4puGt8&amp;t=2s) utilizando apenas CSS. 
+Neste projeto utilizo ReactJS para adquirir conhecimento no framework e para adição de features futuras neste template.
+Projeto para fins de estudo e para referencia para futuros projetos.
